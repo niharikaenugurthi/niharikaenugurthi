@@ -1,10 +1,16 @@
-## About Me
+# Hi, I'm Niharika Enugurthi 👋
 
-Hi, I'm Niharika 👋  
-I am an Information Technology student interested in programming and software development.
+I'm a 3rd year Information Technology student passionate about frontend development and building responsive, interactive web applications using JavaScript and React JS. I also have knowledge of Data Structures and Algorithms (DSA) and enjoy improving my problem-solving skills through coding and hands-on projects.
 
-I enjoy learning new technologies and building small projects to improve my skills.  
-Currently focusing on Data Structures, Java, and Web Development.
+## 🚀 Tech Stack
 
-My goal is to become a skilled software developer and work on real-world projects.
-linkedin : https://www.linkedin.com/in/niharika-enugurthi/
+HTML • CSS • JavaScript • React JS • Tailwind CSS • Git • GitHub • DSA
+
+## 🌱 Currently Learning
+
+Advanced React • Redux Toolkit • Backend Development • Full Stack Development
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/niharikaenugurthi
+- LinkedIn: [](https://www.linkedin.com/in/niharika-enugurthi/)
